@@ -4,6 +4,8 @@
 - Turns a light on and off when clicked.
 - Tracks how many times we have clicked the lightbulbs.
 
+![Final Output](./FinalProject.gif)
+
 ## `.classList.toggle("CLASS_NAME")`
 
 When a lightbulb is "on" it has a class of `"active"` which colors it white. When the lightbulb is "off" it does **NOT** have a class `"active"`, so it is colored black. 
