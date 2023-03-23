@@ -15,7 +15,7 @@ When a lightbulb is "on" it has a class of `"active"` which colors it white. Whe
 <div id="lightbulb2" class="item lightbulb">💡</div>
 ```
 
-In order to add or remove a class, we can use the `.classList.toggle("CLASS_NAME")` method. This command contains two key parts:
+In order to add or remove a class, we can use the [`.classList.toggle("CLASS_NAME")` method](https://www.w3schools.com/howto/howto_js_toggle_class.asp) 🔍. This command contains two key parts:
 - The `.classList` command returns the list of classes currently attached to a DOM element.
 - The `.toggle()` method checks if a specified class is currently present. It will then either add or remove this class name based on whether it is present or absent.
 
